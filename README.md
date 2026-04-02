@@ -1,4 +1,4 @@
-# Roeh 111 | Dual-Spectrum Business Solutions
+# Roeh 111 | Dual Spectrum Business Solutions for the  Kingdom of Heaven
 
 **Live Site:** [Roeh 111](https://josephparis28-hue.github.io/Roeh-111/)
 **GitHub Repository:** [GitHub Repository](https://github.com/josephparis28-hue/Roeh-111)
@@ -15,11 +15,12 @@
 
 ## Why does it matter?
 
-Modern businesses often suffer from a "disconnect" between their polished digital brand and their physical operational reality. **Roeh 111** solves this by providing a "Full-Spectrum" approach, ensuring high-quality and reliable services redendered exceed the expectations of clients.
+Modern businesses often suffer from a disconnect between their polished digital brand and their physical operational reality. _Roeh 111_ solves this by providing a Full Spectrum approach, ensuring high quality and reliability services redendered exceed expectations.
 
 ## Who is it for?
 
-The intended audience is small-to-medium business owners in Texas who require a partner to handle both the technical complexities of the web and the logistical demands of physical facility maintenance. A branch of the business will be dedicated to those who have needs for outside of the business world.
+One branch of the bussiness will handle the technical complexities of the web. Another branch of the business will be dedicated to those who have needs for home repairs and restoration projects. The last branch will handle life coaching to help those who need to be restored by the Word of God. The intended audience is small to medium business owners in Texas, lower to middle income families who need help with home repairs and other projects and the next group targets those who 
+want the Word of God to change their life. Although, this business is intented to all who schedule a service with us.
 
 ---
 
@@ -32,9 +33,7 @@ The intended audience is small-to-medium business owners in Texas who require a 
 * **Verified Deployment Pipeline:** A fully functional GitHub Pages site with continuous deployment enabled.
 * **Mobile-First Design:** Optimized CSS ensuring the service grid is readable and navigable on smartphones.
 
-## Project 02 (Week 08 Final MVP)
-
-### Project 02 (Week 08 - Final MVP)
+## Project 02 (Week 08 - Final MVP)
 
 * **Expanded Multi-Page Architecture:** Transition from a single-page landing site to a structured multi-page application including:
 
@@ -56,6 +55,9 @@ The intended audience is small-to-medium business owners in Texas who require a 
 * **Version Control:** **GitHub Desktop** for managing local commits and remote pushes.
 * **Hosting/Deployment:** **GitHub Pages** providing an automated pipeline from the `main` branch to the live web.
 * **AI Collaboration:** **Gemini** used for architectural planning, CSS troubleshooting, and technical writing.
+* **Respponsive Grid:** Utilized grid template columns  to ensure a transition from desktop to mobile without manual breakpoints.
+* **Interactive UX:** Leveraged CSS transfrom and transition properties to provide tactile visual feedback on all clickable elements.
+* **Deployment:** Configured GitHub Actions to automate the build to deploy pipeline, ensuring 100% uptime for the live URL.
 
 ---
 
@@ -63,12 +65,13 @@ The intended audience is small-to-medium business owners in Texas who require a 
 
 This project has successfully moved from a local environment to a live URL. The deployment process is automated:
 
-1. Changes are saved in **VS Code**.
-2. Commits are pushed via **GitHub Desktop**.
-3. **GitHub Actions** automatically rebuilds and deploys the site to the live URL within 60 seconds.
+* Changes are saved in **VS Code**.
+* Commits are pushed via **GitHub Desktop**.
+* **GitHub Actions** automatically rebuilds and deploys the site to the live URL within 60 seconds.
 
 **Local Testing:**
-To view this project on your machine, clone the repository and use the **Live Server** extension in VS Code on the `index.html` file.
+
+* To view this project on your machine, clone the repository and use the **Live Server** extension in VS Code on the `index.html` file.
 
 ---
 
@@ -79,4 +82,4 @@ To view this project on your machine, clone the repository and use the **Live Se
 
 ---
 
-### Developed for CMPA 4303 - Semester Project and Futrue Use
+### Developed for CMPA 4303 : Semester Project and Futrue Use

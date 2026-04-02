@@ -1,3 +1,22 @@
+:root {
+    --primary-blue: #3b82f6;
+    --dark-navy: #0f172a;
+    --slate-gray: #64748b;
+    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Accessibility Improvement: Visible focus for keyboard users */
+a:focus, button:focus {
+    outline: 3px solid var(--primary-blue);
+    outline-offset: 2px;
+}
+
+/* Design Improvement: Soften the card entry */
+.service-card {
+    border: 1px solid rgba(226, 232, 240, 0.8);
+    backdrop-filter: blur(5px); /* Adds a subtle modern glass effect */
+}
+
 /* Global Styles & Resets */
 * {
     margin: 0;
@@ -7,7 +26,7 @@
 }
 
 html {
-    scroll-behavior: smooth; /* Makes internal links slide instead of jump */
+    scroll-behavior: smooth;   /* Makes internal links slide instead of jump */
 }
 
 body {
@@ -22,7 +41,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 1.2rem 8%;
-    background: #0f172a; /* Deep charcoal/navy */
+    background: #0f172a;   /* Deep charcoal/navy */
     color: white;
     position: sticky;
     top: 0;
@@ -34,14 +53,14 @@ body {
     font-size: 1.6rem; 
     font-weight: 800; 
     letter-spacing: 3px; 
-    color: #3b82f6;      /* Brand Accent Blue */
-    text-decoration: none; /* Removes the underline */
+    color: #3b82f6;        /* Brand Accent Blue */
+    text-decoration: none;   /* Removes the underline */
     transition: 0.3s ease;
 }
 
 .logo:hover {
-    color: #60a5fa;       /* Slightly lighter blue when hovered */
-    transform: scale(1.05); /* Gives a tiny "pop" effect when touched */
+    color: #60a5fa;         /* Slightly lighter blue when hovered */
+    transform: scale(1.05);   /* Gives a tiny "pop" effect when touched */
 }
 
 .nav-links {
@@ -102,7 +121,7 @@ body {
 }
 
 .hero-content h1 {
-    font-size: clamp(2.5rem, 5vw, 4rem); /* Responsive font size */
+    font-size: clamp(2.5rem, 5vw, 4rem);   /* Responsive font size */
     margin-bottom: 1.5rem;
     font-weight: 800;
 }
