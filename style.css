@@ -34,13 +34,13 @@ body {
     font-size: 1.6rem; 
     font-weight: 800; 
     letter-spacing: 3px; 
-    color: #3b82f6; /* Brand Accent Blue */
+    color: #3b82f6;      /* Brand Accent Blue */
     text-decoration: none; /* Removes the underline */
     transition: 0.3s ease;
 }
 
 .logo:hover {
-    color: #60a5fa; /* Slightly lighter blue when hovered */
+    color: #60a5fa;       /* Slightly lighter blue when hovered */
     transform: scale(1.05); /* Gives a tiny "pop" effect when touched */
 }
 
@@ -86,9 +86,11 @@ body {
 /* Hero Section */
 .hero {
     height: 85vh;
+
     /* Dark overlay ensures text is readable over any image */
     background: linear-gradient(rgba(15, 23, 42, 0.7), rgba(15, 23, 42, 0.7)), 
-                url('https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1350&q=80');
+                url('');
+
     background-size: cover;
     background-position: center;
     display: flex;

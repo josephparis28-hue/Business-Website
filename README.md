@@ -1,9 +1,9 @@
 # Roeh 111 | Dual-Spectrum Business Solutions
 
-**Live Site:** [https://josephparis28-hue.github.io/Roeh-111/]  
-**GitHub Repository:** [https://github.com/josephparis28-hue/Roeh-111]
+**Live Site:** [Roeh 111](https://josephparis28-hue.github.io/Roeh-111/)
+**GitHub Repository:** [GitHub Repository](https://github.com/josephparis28-hue/Roeh-111)
 **Author:** Joseph Paris  
-**Project Status:** _Updateed as of April 1, 2026_: Week 03 - First Deployment Verified  
+**Project Status:** _Updateed as of April 2, 2026_: Week 03 - First Deployment Verified  
 
 ---
 
